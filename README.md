@@ -1,5 +1,5 @@
 # BD_Group_Project
-Data Bases group project 2022
+2021/2022 Data Bases Group Project 
 
 Authors:<br />
 José Trigueiro<br />
